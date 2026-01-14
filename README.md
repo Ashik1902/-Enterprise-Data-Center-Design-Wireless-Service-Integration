@@ -1,0 +1,2 @@
+# -Enterprise-Data-Center-Design-Wireless-Service-Integration
+Built as a Network Engineer Trainee, this Cisco Packet Tracer project features a scalable Data Center with redundant 3560/2960 switches, ISR 4331 routing, and DMZ security. It implements EtherChannel, NAT, and ACLs to provide secure web/file access via wired and WRT300N wireless connectivity. Open to feedback for architectural improvements!
